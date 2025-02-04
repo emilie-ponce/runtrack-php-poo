@@ -49,5 +49,4 @@
 
     $livre->setNombreDePages(120);
     echo "Nombre de pages après modification : " . $livre->getNombreDePages() . "<br>";
-
 ?>
